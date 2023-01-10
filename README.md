@@ -1,2 +1,2 @@
-# Bondiola
-Repositorio 1
+como crear un repositorio y clonarlo
+
